@@ -1,0 +1,7 @@
+export default function Subprocessors() {
+  return (
+    <main>
+      <section className="page-hero"><p className="eyebrow">TRUST · PROCESSING</p><h1>Know who supports<br /><span>the service.</span></h1><p className="lede">The current sub-processor list identifies providers, processing locations, activities and applicable transfer mechanisms.</p><a className="button" href="https://gaintax.co.uk/sub-processors">Open current list <b>↗</b></a></section><section className="section two-col"><div><p className="eyebrow">WHY IT MATTERS</p><h2>Provider, purpose<br />and transfer.</h2></div><div><p className="section-copy">GAIN Tax’s DPA says the sub-processor list forms part of the agreement and that customers receive at least 30 days’ prior notice of additions or replacements, with an opportunity to object on reasonable data-protection grounds.</p><p className="section-copy">The DPA identifies OpenAI OpCo, LLC in the United States for AI processing of queries and documents. Consult the current live list for the complete roster and safeguards.</p></div></section><section className="section pale"><p className="eyebrow">CURRENT REGISTER</p><h2>Use the latest published version.</h2><p className="section-copy">This concept page does not reproduce the provider register because the list can change. The official live page remains authoritative.</p><a className="button" href="https://gaintax.co.uk/sub-processors">View sub-processors <b>↗</b></a></section>
+    </main>
+  );
+}
